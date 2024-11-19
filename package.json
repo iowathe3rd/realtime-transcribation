@@ -38,7 +38,7 @@
     "version": "npm run build && npm run changelog:update"
   },
   "devDependencies": {
-    "@types/chai": "^4.3.5",
+    "@types/chai": "^5.0.1",
     "@types/mocha": "^10.0.1",
     "@types/node": "^20.4.1",
     "@typescript-eslint/eslint-plugin": "^8.15.0",
