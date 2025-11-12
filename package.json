@@ -60,7 +60,7 @@
     }
   },
   "dependencies": {
-    "@google-cloud/speech": "^6.0.2",
+    "@google-cloud/speech": "^7.2.1",
     "sitka": "^1.1.1"
   }
 }
